@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-03-17T23:12:18.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="wbo7YR6n6_HpaGW6cwsX" version="24.0.7" type="github">
+  <diagram name="Page-1" id="MdG0VW_cVSFG9lbgoRYg">
+    <mxGraphModel dx="1831" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-14" value="RECAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="2" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gKKFZiNBQcyhOXVT-cgT-14" target="gKKFZiNBQcyhOXVT-cgT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-17" value="RECAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="-15" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-18" value="&lt;div&gt;Rescate y Recuperación&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="-204" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-19" value="&lt;div&gt;Adopción&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="-124" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-20" value="Educación y Concientización" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="-52" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-21" value="Recaudación de Fondos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559" y="20" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-22" value="&lt;div&gt;Logística y Transporte&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="92" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-23" value="Administración y Finanzas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-561" y="164" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gKKFZiNBQcyhOXVT-cgT-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-695" y="-15" as="sourcePoint" />
+            <mxPoint x="-645" y="-65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gKKFZiNBQcyhOXVT-cgT-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-669" y="-15" as="sourcePoint" />
+            <mxPoint x="-533" y="-181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="gKKFZiNBQcyhOXVT-cgT-17" target="gKKFZiNBQcyhOXVT-cgT-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-645" y="10" as="sourcePoint" />
+            <mxPoint x="-535" y="-76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.711;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gKKFZiNBQcyhOXVT-cgT-17" target="gKKFZiNBQcyhOXVT-cgT-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-645" y="22" as="sourcePoint" />
+            <mxPoint x="-559" y="-17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gKKFZiNBQcyhOXVT-cgT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-676" y="30" as="sourcePoint" />
+            <mxPoint x="-590" y="51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKKFZiNBQcyhOXVT-cgT-30" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gKKFZiNBQcyhOXVT-cgT-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-694" y="30" as="sourcePoint" />
+            <mxPoint x="-579" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
