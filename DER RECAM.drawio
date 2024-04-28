@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T22:46:12.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="cLYPZNpmf8mMGHlhhbBm" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T22:47:41.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="_hIo4Bjvx398fl8JLQoj" version="24.3.0" type="github">
   <diagram name="Page-1" id="GVhFGZ3rpqO2WIiVd2YP">
     <mxGraphModel dx="2576" dy="2541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1052,13 +1052,13 @@
           <mxGeometry x="2008" y="425" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-104" value="&lt;u&gt;nroInsumo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2285" y="291.5" width="104" height="40" as="geometry" />
+          <mxGeometry x="2286" y="292.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-105" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2285" y="346" width="104" height="40" as="geometry" />
+          <mxGeometry x="2286" y="347" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-106" value="descripción" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2285" y="398.5" width="104" height="40" as="geometry" />
+          <mxGeometry x="2286" y="399.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-107" value="&lt;u&gt;nroGasto&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2310" y="-403.5" width="104" height="40" as="geometry" />
@@ -1117,13 +1117,13 @@
           <mxGeometry x="2168.5" y="497" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-183" value="&lt;u&gt;nroRefugio&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2310" y="-85" width="104" height="40" as="geometry" />
+          <mxGeometry x="2310" y="-74.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-184" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2310" y="-33" width="104" height="40" as="geometry" />
+          <mxGeometry x="2310" y="-22.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-185" value="dirección" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2310" y="17" width="104" height="40" as="geometry" />
+          <mxGeometry x="2310" y="27.5" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DgqKghVQSb-tML7D4mr0-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="DgqKghVQSb-tML7D4mr0-193" target="DgqKghVQSb-tML7D4mr0-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
